@@ -1,0 +1,58 @@
+body {
+    background-color: #f9f3f3;
+  }
+  
+  .timeline {
+    position: relative;
+  }
+  
+  .timeline-event {
+    position: relative;
+  }
+  
+  .timeline-dot {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin: 0 auto;
+  }
+  
+  .bg-pink {
+    background-color: #e75480; /* Pembe renk */
+  }
+  
+  .border-pink {
+    border-color: #e75480; /* Pembe renk */
+  }
+  
+  .card {
+    border-radius: 8px;
+  }
+  
+  .btn-pink {
+    background-color: #e75480;
+    color: white;
+    border: none;
+  }
+  
+  .btn-pink:hover {
+    background-color: #d34f76; /* Daha koyu pembe ton */
+  }
+  
+  h1 {
+    color: #8a2be2; /* Mor renk */
+  }
+  
+  .card-title {
+    color: #8a2be2; /* Mor renk */
+  }
+  
+  .btn-primary {
+    background-color: #8a2be2;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #7b1fa2; /* Daha koyu mor ton */
+  }
+  
